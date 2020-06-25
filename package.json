@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Generates a portfolio site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gray-turtle/portfolio-generator.git"
+  },
+  "author": "Gray-Turtle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gray-turtle/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/gray-turtle/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.2.0"
+  }
+}
